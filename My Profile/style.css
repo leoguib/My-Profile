@@ -1,0 +1,118 @@
+h1 {      
+
+color: #383E40;
+
+font-size: 30px;
+
+font-family: 'oswald';
+
+font-weight: bold;
+
+margin: 0;
+
+}
+
+ 
+
+h2 {
+
+color: #383E40 ;
+
+font-family: 'oswald';
+
+font-weight: bolder;
+
+}
+
+body {
+
+              align-content: vertical;
+
+              background-color: rgb(220, 220, 220);
+
+              font-family: 'oswald';
+
+              font-weight: lighter;
+
+              text-align: center;
+
+ 
+
+}
+
+ 
+
+.img-circle{
+
+              border-radius: 50%;
+
+}
+
+ 
+
+.container{
+
+              margin: auto;
+
+              background-color: #BFCED3;
+
+              padding: 50px;
+
+              max-width: 600px;
+
+              border-radius: 3px;
+
+              box-shadow: 3px 3px 10px rgba(44, 102, 110, 0.5);
+
+              margin-bottom: 30px;
+
+              margin-top: 10px;
+
+}
+
+ .styled {
+    border: 0;
+    line-height: 2.5;
+    padding: 0 20px;
+    font-size: 1rem;
+    text-align: center;
+    color: whitesmoke;
+    text-shadow: 1px 1px 1px #000;
+    border-radius: 10px;
+    background-color: grey;
+    background-image: linear-gradient(to top left,
+                                      rgba(0, 0, 0, .2),
+                                      rgba(0, 0, 0, .2) 30%,
+                                      rgba(0, 0, 0, 0));
+    box-shadow: inset 2px 2px 3px rgba(255, 255, 255, .6),
+                inset -2px -2px 3px rgba(0, 0, 0, .6);
+}
+
+
+div {
+font-family: 'Merriweather', serif;
+background-color: #81AE9D;
+text-align: center;
+box-shadow: 5px 5px 3px grey;
+margin: 10px;
+padding: 10px;
+border-radius: 10px;
+}
+
+
+.bouton-profil{
+
+              padding: 0.3em 1em!important;
+
+    border: 1px solid;
+
+    border-radius: 15px;
+
+    color: #845d35;
+
+    text-transform: uppercase;
+
+    text-decoration: none;
+
+}
+
